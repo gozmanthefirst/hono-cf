@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "hono-node-cf",
+  "name": "hono-cf",
   "main": "src/app.ts",
   "compatibility_date": "2025-07-08",
   "compatibility_flags": [
